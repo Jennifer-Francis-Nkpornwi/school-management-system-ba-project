@@ -17,7 +17,7 @@ Business Analyst
 
 ## Deliverables
 - Business Case
-- Business Requirements Document (BRD)
+- Business Requirements Document (BRD) and Functional Requirement Document (FRD)
 - Stakeholder Analysis
 - Epics, Feature lists and User Stories
 - Use Cases
@@ -25,6 +25,7 @@ Business Analyst
 - Requirements Traceability Matrix (RTM)
 - Data Model-ERD
 - Meeting Notes
+- Project Summary
 
 ## Tools Used
 - Microsoft Excel
