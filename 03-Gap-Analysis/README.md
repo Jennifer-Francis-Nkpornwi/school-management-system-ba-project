@@ -1,1 +1,0 @@
-This folder bears the Gap Analysis files both excel and Pdf files, which Identifies gaps between current and desired business processes, highlighting areas for improvement and defining opportunities for the proposed School Management System solution.
